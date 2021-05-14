@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.body {
+  background-image: url('password.jpg');
+  background-position: top;
+  min-height: 92vh;
+  background-size: 100vw 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#size {
+  text-align: center;
+  margin: 0px 0px;
+}
+#difful {
+  border-radius: 23rem;
+}
+#copye {
+  padding: 15px 15px;
+  font-size: 15px;
+}
